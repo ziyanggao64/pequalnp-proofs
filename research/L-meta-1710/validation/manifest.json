@@ -1,0 +1,42 @@
+{
+  "task": "L-meta-1710",
+  "status": "Auxiliary results only; full statement unproved",
+  "ordinary_lean_compile": "Both source files exited 0 without warnings",
+  "axiom_audit": "Key declarations use only propext, Classical.choice, Quot.sound",
+  "original_checker_run": false,
+  "upstream_pr_submitted": false,
+  "toolchain": "Lean 4.36.0",
+  "mathlib_commit": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "files": [
+    {
+      "path": "SupportBound.lean",
+      "bytes": 12547,
+      "sha256": "c3920d8bfc57a5ba724f8f632a34cb0e0a865b89925d9881f9175c0117f639c0"
+    },
+    {
+      "path": "CarrierBridge.lean",
+      "bytes": 31931,
+      "sha256": "cd1421e08c0768b150e9613c1bd790ef128aab49f0169415256248bf0f319f8e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3706,
+      "sha256": "fb5cd6e07b08cb0ef893dfd76c7acee327ceee757305fec5a7d08d72cbb219d5"
+    },
+    {
+      "path": "statement.txt",
+      "bytes": 586,
+      "sha256": "4aa4449fe6bec327cb02deb55a7429723efd17379cdb9cf20ba339b03a56b784"
+    },
+    {
+      "path": "validation/SupportBound.axioms.txt",
+      "bytes": 393,
+      "sha256": "cd61b1353c70311d4ec9fc8c78ad0319ce355fc046746b7edf80126688e8b646"
+    },
+    {
+      "path": "validation/CarrierBridge.axioms.txt",
+      "bytes": 889,
+      "sha256": "20eeca49bcd96c56a6a1a8ab0a48b2742f56e736a0461a112d1a005dfa671502"
+    }
+  ]
+}

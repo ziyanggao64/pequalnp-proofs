@@ -1,0 +1,9 @@
+'PEqualNP.Outside.L_meta_1710.BoundedDegree.dependent_inputs_card_le' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PEqualNP.Outside.L_meta_1710.BoundedDegree.nonisolated_card_le' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PEqualNP.Outside.L_meta_1710.BoundedDegree.monotone_bounded_degree_edges' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

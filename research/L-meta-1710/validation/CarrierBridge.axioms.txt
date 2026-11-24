@@ -1,0 +1,17 @@
+'PEqualNP.Outside.L_meta_1710.CarrierBridge.carrier_exists' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PEqualNP.Outside.L_meta_1710.CarrierBridge.carrier_below_star' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PEqualNP.Outside.L_meta_1710.CarrierBridge.residual_unique_carrier' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PEqualNP.Outside.L_meta_1710.CarrierBridge.residual_card_le_sum_carried' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PEqualNP.Outside.L_meta_1710.CarrierBridge.carried_disjoint' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PEqualNP.Outside.L_meta_1710.CarrierBridge.sum_carried_le_edges' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'PEqualNP.Outside.L_meta_1710.CarrierBridge.sum_junk_carried_le_edges' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
